@@ -1,0 +1,33 @@
+# Arduino sketch build files
+*.bin
+*.elf
+*.hex
+*.map
+*.eep
+*.o
+*.d
+*.a
+*.suo
+*.exe
+*.out
+*.dep
+
+# Backup and temp files
+*.bak
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Arduino cache/build folders
+build/
+.cache/
+core/
+libraries/
+*.log
+
+# VS Code folder (if using PlatformIO or similar)
+.vscode/
+.pio/
